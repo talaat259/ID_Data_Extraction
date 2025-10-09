@@ -282,6 +282,11 @@ This project is for educational and research purposes.
 - **EasyOCR** for Arabic text recognition
 - **OpenCV** for image processing utilities
 
+ ## Output
+ 
+<img width="605" height="447" alt="v5" src="https://github.com/user-attachments/assets/6172cce9-0cda-4817-9136-8c595dbc3e0e" />
+<img width="788" height="472" alt="v2" src="https://github.com/user-attachments/assets/5650a215-27fe-4ba3-9893-bdb4c30f0aee" />
+
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the project maintainer.
